@@ -1,0 +1,51 @@
+richtung,merkmal,gewicht
+Phishing,<email>,10.604
+Phishing,your,7.855
+Phishing,de,7.499
+Phishing,unsubscribe,6.68
+Phishing,account,4.918
+Phishing,wallet,4.23
+Phishing,claim,4.22
+Phishing,email,3.896
+Phishing,details,3.772
+Phishing,para,3.739
+Phishing,payment,3.531
+Phishing,now,3.432
+Phishing,your account,3.412
+Phishing,hello,3.278
+Phishing,sie,3.234
+Phishing,this email,3.231
+Phishing,bitcoin,3.034
+Phishing,en,3.025
+Phishing,win,3.013
+Phishing,funds,3.006
+Phishing,device,2.982
+Phishing,emails,2.93
+Phishing,em,2.854
+Phishing,click here,2.822
+Phishing,health,2.702
+legitim,enron,-10.362
+legitim,the,-9.292
+legitim,<num> <num>,-7.849
+legitim,vince,-6.295
+legitim,thanks,-5.693
+legitim,louise,-5.005
+legitim,com,-4.98
+legitim,attached,-4.905
+legitim,will,-4.712
+legitim,gas,-4.361
+legitim,to,-4.343
+legitim,on,-4.178
+legitim,please,-4.044
+legitim,for,-4.023
+legitim,doc,-3.823
+legitim,enron com,-3.739
+legitim,at,-3.709
+legitim,energy,-3.694
+legitim,houston,-3.507
+legitim,<num> th,-3.287
+legitim,call,-3.282
+legitim,week,-3.259
+legitim,of,-3.103
+legitim,ect,-3.072
+legitim,group,-3.037
